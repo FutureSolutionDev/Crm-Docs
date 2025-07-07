@@ -1,29 +1,29 @@
 # نظام التاسكات
 
+```yaml
+الادمن له جميع الاشعارات في جميع الحالات  بلا استثناء 
+```
+
 ## 1 - المسموحات
 
 ### 1- المسموح لهم بعرض التاسك
 
-- 1- Admin
-- 2- Account Manger
-- 3- Technical (Head - Sub Head - Team Leader - Agent)
+- 1- Account Manger
+- 2- Technical (Head - Sub Head - Team Leader - Agent)
 
 ### 2- المسموح لهم بانشاء التاسك
 
-- 1- Admin
-- 2- Technical (Head - Sub Head - Team Leader)
+- 1- Technical (Head - Sub Head - Team Leader)
 
 ### 3- المسموح لهم بتعديل او حذف التاسك
 
-- 1- Admin
-- 2- Technical Head -> يقوم بتعديل او حذف اي تاسك بلا استثناء
-- 3- Technical Sub Head -> يقوم بتعديل  او حذف اي تاسك بلا استثناء الخاص بالقسم فقط
-- 4- Technical Team Leader -> يقوم بتعديل او حذف التاسكات الي قام بانشائها فقط
+- 1- Technical Head -> يقوم بتعديل او حذف اي تاسك بلا استثناء
+- 2- Technical Sub Head -> يقوم بتعديل  او حذف اي تاسك بلا استثناء الخاص بالقسم فقط
+- 3- Technical Team Leader -> يقوم بتعديل او حذف التاسكات الي قام بانشائها فقط
 
 ### 4- المسموح لهم باكمال التاسك
 
-- 1- Admin
-- 2- Technical (Head - Sub Head - Team Leader - Agent)
+- 1- Technical (Head - Sub Head - Team Leader - Agent)
 
 ---
 
@@ -47,36 +47,37 @@
 
 #### 1- سيتم اخطار كلا من
 
-- 1- Admin
-- 2- Technical (Head - Sub Head - Team Leader - Agent)
+- 1- الموظفين القائمين بالعمل عالتاسك
 
 ### 2- التعديل
 
 #### 2- سيتم اخطار كلا من
 
-- 1- Admin
-- 2- Technical (Head - Sub Head - Team Leader - Agent)
+- 1-  الموظفين القائمين بالعمل عالتاسك
 
 ### 3- الحذف
 
 #### 3- سيتم اخطار كلا من
 
-- 1- Admin
-- 2- Technical (Head - Sub Head - Team Leader - Agent)
+- لا يوجد اخطارات لاحد
 
-### 4- الاكمال
+### 4- الاكمال ( Complete )
 
     يتم رفع ملفات التاسك ان وجدت من الموظف
 
 #### 4- سيتم اخطار كلا من
 
 - 1- القائم بانشاء التاسك فقط
-- 2- Admin
-- 3- Technical (Head - Sub Head - Team Leader - Agent)
 
-#### 5- الانتهاء
+#### 5- الانتهاء ( Approve )
 
 #### 5- سيتم اخطار كلا من
 
-- 1- Admin
-- 2- Technical (Head - Sub Head - Team Leader - Agent)
+- 1- القائم بانشاء التاسك فقط
+
+#### 6- فك القفل ( Unlock )
+
+#### 6- سيتم اخطار كلا من
+
+- 1- القائم بانشاء التاسك
+- 2- الموظفين القائمين بالعمل عالتاسك
